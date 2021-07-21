@@ -25,8 +25,8 @@ This stage included:
   - Dropping rows containing missing values (NaN values)
   - Tokenization — convert sentences to words
   - Removing unnecessary punctuation, tags
-  - Lowering the text
-  - Removing stop words — frequent words such as ”the”, ”is”, etc. that do not have specific semantic
+  - Lowering text
+  - Removing stop words — frequent words such as "the", "is", etc. that do not have specific semantic
   - Stemming — words are reduced to a root by removing inflection through dropping unnecessary characters, usually a suffix.
   - Lemmatization — Another approach to remove inflection by determining the part of speech and utilizing detailed database of the language.
   - Bag of Words

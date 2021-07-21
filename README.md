@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-This is a project on Sentiment Analysis based on *Python 3.8*. It was made by [Deepesha Burse](https://github.com/deepeshaburse) as a personal project. With this project, I have analysed the reviews of a women's clothing company. That data has been extracted from a CSV file. 
+This is a project on Sentiment Analysis based on *Python 3.8*. It was made by [Deepesha Burse](https://github.com/deepeshaburse) as a personal project. With this project, I have analysed the reviews of a women's clothing company. The data has been extracted from a CSV file. 
 
 ## Packages Used:
 1. pandas
@@ -10,7 +10,7 @@ This is a project on Sentiment Analysis based on *Python 3.8*. It was made by [D
 among others.
 
 ## Motivation
-In order to enhance myself, I had done two courses, [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate) and called [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis). I enjoyed learning these concepts and hence wanted to try my hand at a project based on them. I came across a project on sentiment analysis, and felt like this would be the perfect project to apply everything I have learnt till now. 
+In order to enhance myself, I had done two courses, [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate) and called [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis). I enjoyed learning these concepts and hence wanted to try my hand at a project based on them. I came across a project on sentiment analysis, and felt like this would be the perfect project to reinforce everything I have learnt. 
 
 ## Working of Project:
 ##### 1. Extracting Data

@@ -10,7 +10,7 @@ This is a project on Sentiment Analysis based on *Python 3.8*. It was made by [D
 among others.
 
 ## Motivation
-In order to enhance myself, I had done two courses, [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate) called [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis). I enjoyed learning these concepts and hence wanted to try my hand at a project based on them. I came across a project on sentiment analysis, and felt like this would be the perfect project to reinforce everything I have learnt. 
+In order to enhance myself, I had done two courses, [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate) and [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis). I enjoyed learning these concepts and hence wanted to try my hand at a project based on them. I came across a project on sentiment analysis, and felt like this would be the perfect project to reinforce everything I have learnt. 
 
 ## Working of Project:
 ##### 1. Extracting Data
